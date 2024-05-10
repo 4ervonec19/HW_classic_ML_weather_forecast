@@ -1,6 +1,6 @@
 ## Classic ML models implementation & research.
 
-## The main goal of the objective was to inplement and research (time & scoring features) 3 ML algorithms:
+## The main goal of the objective was to implement and research (time & scoring features) 3 ML algorithms:
 * ### Sklearn LogisticRegression;
 * ### Sklearn Naive Bayes Classifier;
 * ### Sklearn K-Nearest Neighbors Classifier.
