@@ -19,5 +19,5 @@
 
 ![](task/images/f1_score.png)
 
-## All study notes and code are [right here](weather_prediction_classic_ML.ipynb)
+## All study notes and code are [right here](weather_prediction_classic_ML.ipynb)!
 
