@@ -17,7 +17,7 @@
 
 * ### f1_score Barplot
 
-![](task\images\f1_score.png)
+![](task/images/f1_score.png)
 
 ## All study notes and code are [right here](weather_prediction_classic_ML.ipynb)
 
