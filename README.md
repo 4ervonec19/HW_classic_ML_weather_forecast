@@ -11,9 +11,9 @@
 
 * ### Time Barplots
 
-![](task\images\time_zoom_2.png)
+![](task/images/time_zoom_2.png)
 
-![](task\images\time_zoom_3.png)
+![](task/images/time_zoom_3.png)
 
 * ### f1_score Barplot
 
